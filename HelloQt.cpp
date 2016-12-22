@@ -1,6 +1,7 @@
 #include <QApplication>
 #include <QLabel>
 
+//My first Qt app
 int main(int argc,char *argv[])
 {
         QApplication app(argc,argv);
